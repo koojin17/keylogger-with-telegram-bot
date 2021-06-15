@@ -1,7 +1,7 @@
 # keylogger-with-telegram-bot
 <h3>Step by step creating telegram-bot </h3>
 
-1- Search botfather on telegram \n
+1- Search botfather on telegram "\n"
 2- Write /start --> /newbot more in the picture \n
 3- Note the token \n
 \n
